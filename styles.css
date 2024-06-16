@@ -145,3 +145,7 @@ footer {
 h2, .slogan, .cont {
     text-align: center;
 }
+.slogan {
+    display: flex;
+    justify-content: center;
+}
